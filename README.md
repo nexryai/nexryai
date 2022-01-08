@@ -1,4 +1,17 @@
 ### nexryai
+
+## skills
+・Linux (I love openSUSE!) <br>
+・ShellScript <br>
+・kiwi-ng <br>
+・Server Management
+
+## want to learn...
+・Javascript and CSS <br>
+・GOlang <br>
+・GJS
+
+## stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nexryai&count_private=true&show_icons=true&theme=tokyonight&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
