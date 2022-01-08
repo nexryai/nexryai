@@ -1,4 +1,6 @@
 ### nexryai
+Japanese high school student who love Linux :) <br>
+I am developing a Linux distribution.
 
 ## skills
 ・Linux (I love openSUSE!) <br>
