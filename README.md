@@ -1,5 +1,25 @@
-### nexryai
 Japanese high school student who love Linux :) <br>
+
+## PGP Publick Key
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mDMEZIQIXBYJKwYBBAHaRw8BAQdAt/PwGADyPDR1MZ6HzcBAMtm7WTLOePWjqocf
+WFmY+pS0HG5leHJ5YWkgPGdpdEBuZXhyeWFpLm9ubGluZT6IlgQTFggAPhYhBFPC
+wXRl4XPGJJaXwWrkdZUqmeusBQJkhAhcAhsDBQkSzAMABQsJCAcCBhUKCQgLAgQW
+AgMBAh4BAheAAAoJEGrkdZUqmeusp7cBAJ3TdwQJSOguq43ZstXjsWsfP/gomzFY
+MR8CakLjpvExAP9GZqbhXkML01CM/MB0+oYauJRK22Gn74+wcFRzxx9uC7g4BGSE
+CFwSCisGAQQBl1UBBQEBB0BM9CS0roAkFaXOIkcI4h2FkoxpIlnglACxJARQeEFj
+NgMBCAeIfgQYFggAJhYhBFPCwXRl4XPGJJaXwWrkdZUqmeusBQJkhAhcAhsMBQkS
+zAMAAAoJEGrkdZUqmeusylsBAMqhfwJLx2K+6oCXVZJfeq5OWKxU8z4jK6IdsLtf
+FEJbAP4iqao9FZhI61C371PUWRaNAuFK2dPks3CFVxCTsvQ+Dw==
+=vzWT
+-----END PGP PUBLIC KEY BLOCK-----
+```
+### Fingerprint
+```
+53C2 C174 65E1 73C6 2496 97C1 6AE4 7595 2A99 EBAC
+```
 
 ## skills
  - Linux (I love openSUSE!) 🐧
