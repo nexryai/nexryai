@@ -1,4 +1,4 @@
-Japanese high school student who love Linux :) <br>
+Japanese high school student
 
 ## PGP Publick Key
 ```
@@ -12,13 +12,6 @@ c5FpfeBMcgD+Nv7L3eMa5++uPS6K8Dq88Wxrl0xhLQXBOspi+xOLaA8=
 =fPgn
 -----END PGP PUBLIC KEY BLOCK-----
 ```
-
-## skills
- - Linux (I love openSUSE!) 🐧
- - Server Management 🖥
- - Golang ⛳
- - Python 🐍
- - Security and Privacy 🔒
 
 ## stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nexryai&count_private=true&show_icons=true&theme=tokyonight&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
