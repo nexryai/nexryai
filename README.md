@@ -1,4 +1,5 @@
-Japanese high school student
+Japanese high school student  
+likes: Honkai: Starrail, Golang
 
 ## PGP Publick Key
 ```
