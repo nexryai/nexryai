@@ -15,7 +15,7 @@ c5FpfeBMcgD+Nv7L3eMa5++uPS6K8Dq88Wxrl0xhLQXBOspi+xOLaA8=
 ```
 
 ## stats and badges
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nexryai&count_private=true&show_icons=true&theme=tokyonight&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nexryai&count_private=true&show_icons=true&theme=transparent&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 <br>
