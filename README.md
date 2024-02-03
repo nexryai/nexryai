@@ -7,7 +7,7 @@ Japanese high school student
 [![Docker Hub](https://img.shields.io/badge/Docker_Hub-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/nexryai) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/nexrya1)
 
 
-## PGP Publick Key
+## 🔏
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
