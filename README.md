@@ -21,9 +21,4 @@ c5FpfeBMcgD+Nv7L3eMa5++uPS6K8Dq88Wxrl0xhLQXBOspi+xOLaA8=
 ```
 
 ## stats and badges
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nexryai&count_private=true&show_icons=true&theme=default&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
-<br>
-
-![WorksOnMyMachine](https://github.com/nexryai/nexryai/assets/61890205/13f87299-096b-4e72-8bcf-cb2f08a87f91)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nexryai&count_private=true&show_icons=true&theme=default&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats) 　　 ![WorksOnMyMachine](https://github.com/nexryai/nexryai/assets/61890205/13f87299-096b-4e72-8bcf-cb2f08a87f91)
