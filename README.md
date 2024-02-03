@@ -1,5 +1,12 @@
 Japanese high school student  
-likes: Honkai: Starrail, Golang
+
+## likes
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
+![GoLand](https://img.shields.io/badge/GoLand-0f0f0f?&style=for-the-badge&logo=goland&logoColor=white)  
+![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)  
+![Honkai: StarRail](https://img.shields.io/badge/Honkai:_StarRail-%23ffffff.svg?style=for-the-badge&logo=android&logoColor=black)
 
 ## links
 [![Docker Hub](https://img.shields.io/badge/Docker_Hub-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/nexryai)  
