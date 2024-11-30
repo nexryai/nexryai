@@ -6,5 +6,5 @@ Japanese university student
 ## links
 [![Docker Hub](https://img.shields.io/badge/Docker_Hub-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/nexryai) 
 
-## stats and badges
+## stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nexryai&count_private=true&show_icons=true&theme=default&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
