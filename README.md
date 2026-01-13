@@ -9,3 +9,7 @@ Japanese university student
 ![Next.js](https://img.shields.io/badge/next.js-f2f2f2?style=for-the-badge&logo=next.js&logoColor=black)
 ![Svelte](https://img.shields.io/badge/svelte-eb5027.svg?style=for-the-badge&logo=svelte&logoColor=white)
 [![Honkai: StarRail](https://img.shields.io/badge/Honkai:_StarRail-4EA4DD.svg?style=for-the-badge&logo=mihoyo&logoColor=white)](https://hsr.hoyoverse.com/en-us/)
+
+### My Credits
+
+ - CVE-2025-24897 ([GHSA-38w6-vx8g-67pp](https://github.com/misskey-dev/misskey/security/advisories/GHSA-38w6-vx8g-67pp)): Misskey: CSRF vulnerability due to insecure configuration of authentication cookie attributes
