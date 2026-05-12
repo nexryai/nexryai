@@ -13,3 +13,4 @@ Japanese university student
 ### My Credits
 
  - CVE-2025-24897 ([GHSA-38w6-vx8g-67pp](https://github.com/misskey-dev/misskey/security/advisories/GHSA-38w6-vx8g-67pp)): Misskey: CSRF vulnerability due to insecure configuration of authentication cookie attributes
+ - CVE-2026-45364 ([GHSA-p6v2-xcpg-h6xw](https://github.com/better-auth/better-auth/security/advisories/GHSA-p6v2-xcpg-h6xw)): better-auth: Rate limiter keys IPv6 addresses individually and is bypassable via prefix rotation
